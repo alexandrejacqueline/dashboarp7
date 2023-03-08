@@ -15,3 +15,5 @@ plotly
 matplotlib
 lime
 dill
+searborn 
+scikit-learn
