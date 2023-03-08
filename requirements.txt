@@ -14,5 +14,5 @@ httpx
 plotly
 matplotlib
 lime
-searborn==1.12.2
+seaborn==0.11.1
 scikit-learn
