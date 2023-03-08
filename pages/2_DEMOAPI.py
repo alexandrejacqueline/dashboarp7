@@ -61,7 +61,7 @@ st.write(donnees_client)
 vars_selected.insert(0, 'SK_ID_CURR')  # Ajout de l'identifiant aux features
 st.subheader('1. Les données du client')
 data = {"SK_ID_CURR": float(input_df)}
-API_ENDPOINT = "http://127.0.0.1:8000/predict"
+API_ENDPOINT = "https://powerful-tor-12957.herokuapp.com/predict"
 
 
 #data = {"SK_ID_CURR": float(input_df)}
