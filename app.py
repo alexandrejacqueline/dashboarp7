@@ -18,14 +18,6 @@ import plotly.figure_factory as ff
 import matplotlib.pyplot as plt
 import plotly.graph_objects as go
 import plotly.express as px
-from sklearn.metrics import roc_auc_score, roc_curve
-from sklearn import metrics
-from sklearn.metrics import classification_report
-from sklearn.metrics import RocCurveDisplay
-from sklearn.metrics import plot_confusion_matrix
-from sklearn.metrics import plot_roc_curve
-from sklearn.metrics import plot_precision_recall_curve
-
 import pickle
 import shap
 
